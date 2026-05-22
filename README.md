@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Krishi Mitra (Farm Friend)
 
 ## Overview
@@ -153,3 +154,7 @@ This project is licensed under [insert appropriate license here].
 ---
 
 Krishi Mitra - Empowering farmers with technology for a sustainable and profitable future in agriculture.
+=======
+# krishi-mitra
+Smart agriculture management system built using React, TypeScript and Vite.
+>>>>>>> cef68e05a0406b4e78399eeab239cb74d6859bad
