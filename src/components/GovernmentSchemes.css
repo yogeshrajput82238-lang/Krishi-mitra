@@ -1,0 +1,58 @@
+.government-schemes {
+    background-color: #4caf50;
+    padding: 2rem;
+}
+
+.bidding-platform {
+    background-color: #4caf50;
+    padding: 2rem;
+}
+
+.schemes-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.schemes-header h2 {
+    color: white;
+}
+
+.view-all {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+.schemes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+}
+
+.scheme-card {
+    background-color: #f0f4c3;
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+    position: relative;
+}
+
+.details-button {
+    position: absolute;
+    top: 0.5rem;
+    right: 0.5rem;
+    background-color: #e0e0e0;
+    border: none;
+    padding: 0.25rem 0.5rem;
+    cursor: pointer;
+}
+
+.scheme-icon {
+    font-size: 3rem;
+    color: #2e7d32;
+    margin-bottom: 0.5rem;
+}
